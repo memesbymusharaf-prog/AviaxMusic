@@ -130,7 +130,7 @@ API_KEY=your-api-key-here
    ```
 4. **Clone the Repository**
    ```bash
-   git clone https://github.com/CyberPixelPro/AviaxMusic && cd AviaxMusic
+   git clone https://github.com/memesbymusharaf-prog/AviaxMusic && cd AviaxMusic
    ```
 5. **Install Requirements**
    ```bash
